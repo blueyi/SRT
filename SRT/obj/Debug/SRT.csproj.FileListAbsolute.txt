@@ -1,0 +1,9 @@
+c:\users\blueyi\documents\visual studio 2015\Projects\SRT\SRT\bin\Debug\SRT.exe.config
+c:\users\blueyi\documents\visual studio 2015\Projects\SRT\SRT\bin\Debug\SRT.exe
+c:\users\blueyi\documents\visual studio 2015\Projects\SRT\SRT\bin\Debug\SRT.pdb
+c:\users\blueyi\documents\visual studio 2015\Projects\SRT\SRT\obj\Debug\SRT.csprojResolveAssemblyReference.cache
+c:\users\blueyi\documents\visual studio 2015\Projects\SRT\SRT\obj\Debug\SRT.SRTMainWindow.resources
+c:\users\blueyi\documents\visual studio 2015\Projects\SRT\SRT\obj\Debug\SRT.Properties.Resources.resources
+c:\users\blueyi\documents\visual studio 2015\Projects\SRT\SRT\obj\Debug\SRT.csproj.GenerateResource.Cache
+c:\users\blueyi\documents\visual studio 2015\Projects\SRT\SRT\obj\Debug\SRT.exe
+c:\users\blueyi\documents\visual studio 2015\Projects\SRT\SRT\obj\Debug\SRT.pdb
